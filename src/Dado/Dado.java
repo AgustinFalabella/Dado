@@ -7,8 +7,6 @@ public class Dado {
 		Base base = new Base();
 		base.frame.setVisible(true);
 
-	System.out.println("Hello world on Git");
-		
 	}
 
 }
